@@ -187,6 +187,7 @@ img {
 /*Hero Start*/
 
 .hero {
+  max-width: 1440px;
   position: relative;
   background: #2e2f42;
   padding-top: 188px;
