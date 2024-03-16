@@ -187,7 +187,6 @@ img {
 /*Hero Start*/
 
 .hero {
-  position: relative;
   background: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -199,10 +198,8 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-.hero-container {
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero-title {
